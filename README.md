@@ -19,7 +19,7 @@ A demo server can be reached at the following address: https://sapphiredb-demo.a
 
 You can try out this example by following these steps: 
 
-1. [Open in StackBlitz](https://stackblitz.com/github/SapphireDb/Example-NodeJs)
+1. [Open in repl.it](https://repl.it/github/SapphireDb/Example-NodeJs)
 
 or
 
